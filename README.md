@@ -7,7 +7,8 @@ I design and build systems that observe, explain, and fix themselves.
 I work at the intersection of:
 
 - AI-native systems
-- Observability (LGTM stack)
+- Software & Systems Architect
+- Observability
 - Kubernetes & Cloud Architecture
 - Zero-code instrumentation
 - Distributed systems
@@ -20,7 +21,7 @@ I work at the intersection of:
 I build production-grade systems with obsessive attention to reliability, performance, and clarity.
 
 - Architect AI-powered observability platforms
-- Build zero-code instrumentation layers for Lambda, Node, .NET, React Native
+- Build zero-code instrumentation layers for Lambda, NodeJS, .NET, React Native
 - Design autonomous root cause analysis systems
 - Engineer distributed microservices at scale
 - Create OSS tooling around OpenTelemetry, logs, tracing and metrics
@@ -33,7 +34,7 @@ I build production-grade systems with obsessive attention to reliability, perfor
 - AI for Observability
 - Autonomous Root Cause Analysis
 - OpenTelemetry Deep Instrumentation
-- Kubernetes (EKS, AKS, on-prem)
+- Kubernetes (Cloud Native and on-prem)
 - LGTM Stack (Loki, Grafana, Tempo, Mimir)
 - AI-native backend systems
 - High-performance Lambda instrumentation
