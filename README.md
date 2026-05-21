@@ -1,6 +1,6 @@
 # Leonardo Zwirtes
 
-### Head of Engineering & Co-Founder @ Elven Works
+### Head of Engineering
 **AI-Native Observability Architect · Full-Stack Engineer (Cloud → On-Prem) · OSS Builder · Extreme Executor**
 
 I design and build systems that observe, explain, and fix themselves — from the kernel-level instrumentation all the way up to the AI agents reasoning over the signals.
